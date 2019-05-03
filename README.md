@@ -14,6 +14,8 @@ Image Transformation and Interpolation
 ## 時間
 * 兩個插值法的時間比較
 
-前兩個分別是文字的nni和bi，  後兩個是風景的nni和bi，  可以看出nni大約比bi快了7倍左右
+前兩個分別是文字的nni和bi
+後兩個是風景的nni和bi
+可以看出nni大約比bi快了7倍左右
 
 ![time]
