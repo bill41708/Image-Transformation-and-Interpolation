@@ -1,4 +1,4 @@
-[valid]:https://github.com/bill41708/Image-Transformation-and-Interpolation/blob/master/Image%20Transformation%20and%20Interpolation/time.PNG
+[time]:https://github.com/bill41708/Image-Transformation-and-Interpolation/blob/master/Image%20Transformation%20and%20Interpolation/time.PNG
 # Image-Transformation-and-Interpolation
 Image Transformation and Interpolation
 
@@ -16,4 +16,5 @@ Image Transformation and Interpolation
 前兩個分別是文字的nni和bi
 後兩個是風景的nni和bi
 可以看出nni大約比bi快了7倍左右
+
 ![time]
